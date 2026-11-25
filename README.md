@@ -1,0 +1,2 @@
+# Generative_AI_in_Production_Planning_and_Supply_Chain_Management
+An interactive Streamlit application for teaching Production Planning and Control (PPC) through demand forecasting, MRP, inventory management, aggregate planning, capacity planning, and job-shop scheduling. Features interactive dashboards, scenario analysis, visualizations, and managerial decision-support insights for experiential learning.
