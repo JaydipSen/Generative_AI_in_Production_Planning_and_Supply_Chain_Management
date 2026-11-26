@@ -1,0 +1,2 @@
+The streamlit public deployment at:
+https://generativeaiinappuctionplanningandsupplychainmanagement-erafn5.streamlit.app/
